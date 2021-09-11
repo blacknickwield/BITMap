@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="sp_14">14sp</dimen>
+    <string name="app_name">北理地图</string>
+    <string name="map">地图</string>
+    <string name="about">关于</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="place_types">
+        <item>学习</item>
+        <item>生活</item>
+        <item>美食</item>
+        <item>其他</item>
+    </string-array>
+</resources>

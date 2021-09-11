@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/ic_about"
+        android:orderInCategory="3"
+        android:title="@string/about" />
+
+
+    <item
+        android:id="@+id/placeFragment"
+        android:icon="@drawable/ic_place"
+        android:orderInCategory="2"
+        android:title="地点" />
+
+
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@drawable/ic_map"
+        android:orderInCategory="1"
+        android:title="@string/map" />
+</menu>
